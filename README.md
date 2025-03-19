@@ -21,7 +21,7 @@ Technologies Used
 Getting Started
 
 
-1 Install dependencies: pip install pandas numpy matplotlib seaborn
+1. Install dependencies: pip install pandas numpy matplotlib seaborn
 2. Load the dataset:
 
 ```
@@ -44,4 +44,4 @@ The dataset includes:
 
 *   Implement Predictive Analytics to forecast customer churn.
 *   Develop an Automated Customer Segmentation Model.
-*   Integrate Machine Learning to personalize marketing campaigns.
+*   Integrate Machine Learning to personalize marketing campaigns..
