@@ -20,7 +20,6 @@ Technologies Used
 
 Getting Started
 
-
 1. Install dependencies: pip install pandas numpy matplotlib seaborn
 2. Load the dataset:
 
@@ -30,6 +29,8 @@ df = pd.read_csv('superstore_data.csv')
 
 3.  Run the analysis scripts to explore customer segmentation and trends.
 
+
+
 ## Dataset
 ----------
 
@@ -38,6 +39,8 @@ The dataset includes:
 *   *Customer Demographics*: age, location, gender, income group
 *   *Transaction Data*: purchase history, order frequency, spend amount
 *   *Marketing Interactions*: campaign engagement, response rates
+
+
 
 ## Future Enhancements
 ----------------------
